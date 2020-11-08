@@ -29,6 +29,8 @@ Similarly, Type of Failure also provides grouping based on the type of failure o
 ![](https://github.com/architpai/Dash-App-for-Incident-Reporting/blob/master/Screenshots/4.1.png)
 ![](https://github.com/architpai/Dash-App-for-Incident-Reporting/blob/master/Screenshots/4.2.png)
 
+##### NOTE: The generated report can be exported as a pdf for easy of sharing.
+
 ## Deployment:
 By default, DashBoard runs on localhost - you can only access it on your own machine provided you have Python 3.7. Or later installed. To share the DashBoard, you need to "deploy" your Dash app to a server and open up the server's firewall to the public or to a restricted set of IP addresses.
 DashBoard uses Flask under the hood. This makes deployment very easy: you can deploy the DashBoard app just like you would deploy a Flask app. Almost every cloud server provider has a guide for deploying Flask apps.Although Heroku seems to be the best of the best.
