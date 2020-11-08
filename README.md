@@ -1,5 +1,5 @@
 # DashBoard for _interactive visualization_ of incident reports
-![](https://gph.is/g/Z86ekWK)
+![](https://media.giphy.com/media/OH5GfBeXzjfj3WoGTv/giphy.gif)
 ## Introduction/ Overview
 This App uses Dash By plotly to create an analytical web application which analyzes the classified incident records and generates interactive data visualizations which help gather meaningful insights from the data. 
 The DashBoard produces interactive visualizations which enable the user to drill down to the root cause of the incident and it does so by using custom cross filters put in place  considering the desired output of the individual.
